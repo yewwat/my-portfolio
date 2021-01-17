@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'ช่วงนี้กำลังสนใจและศึกษา UX/UI design และเครื่องมือต่าง ๆ สำหรับ Front-end develop ชอบใช้ความคิดสร้างสรรค์ในการออกแบบ และสนใจการพัฒนา Software',
   paragraphThree: 'เวลาว่างชอบฟังเพลง ดูหนัง อดิเรกชอบเล่นกีตาร์ เล่นหมากรุก',
-  resume: 'https://www.resumemaker.online/es.php',
+  resume: 'https://drive.google.com/file/d/1y9ozu4hqcvOU1MLNLPTaYeBAsEy5V5Wh/',
 };
 
 // PROJECTS DATA
